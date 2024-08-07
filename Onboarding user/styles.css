@@ -46,3 +46,8 @@ h1 {
     font-size: 1rem;
     color: lightgray;
 }
+
+.checkliste {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
